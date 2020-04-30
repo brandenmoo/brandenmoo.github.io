@@ -1,6 +1,6 @@
 ---
-title: "Linear Regression 1"
-permalink: /LinearRegression1/
+title: "Linear Regression Real Estate"
+permalink: /LinearRegressionRealEstate/
 template: default
 ---
 
