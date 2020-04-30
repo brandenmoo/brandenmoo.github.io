@@ -10,7 +10,7 @@ This is a Linear Regression project to build a model that predicts the price of 
 ### Project Details
 **Data Source URL:** http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set# <br>
 **Modelling Type:** Multiple Linear Regression <br>
-**Source Code:** [GitHub File](Source_Codes/LinearRegression1.ipynb)
+**Source Code:** [GitHub File](https://github.com/brandenmoo/brandenmoo.github.io/blob/master/Source_Codes/LinearRegression1.ipynb)
 
 ### Building The Model
 To start, I imported the libraries that I will be using in this project:
