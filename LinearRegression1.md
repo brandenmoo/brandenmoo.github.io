@@ -9,14 +9,15 @@ This is a Linear Regression project to build a model that predicts the price of 
 
 ### Project Details
 **Data Source URL:** http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set# <br>
-**Modelling Type:** Multiple Linear Regression
+**Modelling Type:** Multiple Linear Regression <br>
+**Source Code:** [GitHub File](Source_Codes/LinearRegression1.ipynb)
 
 ### Building The Model
 To start, I imported the libraries that I will be using in this project:
-![Image1](images/LinReg1/LR1-1.png)
+![Image2](images/LinReg1/LR1-1.png)
 
 Then, import the .csv file containing the data as a DataFrame using pandas. I like to display the first 10 rows of the DataFrame to get a quick overview of the dataset: 
-<images/LinReg1/LN1-2.png>
+![Image1]<images/LinReg1/LN1-2.png>
 
 Before jumping into building any models, it is important to perform data cleaning. First, I checked if there are any missing or null values in the data set, in this case there are no missing values: 
 ![Image3](images/LinReg1/LN1-3.png)
@@ -36,7 +37,7 @@ Next step is to split our data into a training set and test set. A rule of thumb
 ![Image6](images/LinReg1/LN1-6.png)
 
 To split the data, I use the built-in function of scikit-learn: 
-![Image7](https://github.com/brandenmoo/brandenmoo.github.io/blob/master/images/LinReg1/LN1-7.png)
+![Image7](images/LinReg1/LN1-7.png)
 
 Random state has been set to a value of 1 for reasons that will be discussed at the end, but for now, the training and test set have been divided. 
 Using those data sets, we can build the first model. I named it model_1 because I will be building several to compare the accuracies: 
