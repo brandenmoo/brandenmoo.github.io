@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Welcome to homepage!
-baseurl: "https://brandenmoo.github.io/"
-url: "https://brandenmoo.github.io/LinearRegression1"
-markdown: GFM
+baseurl: ""
+url: "https://brandenmoo.github.io/"
