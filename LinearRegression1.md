@@ -3,7 +3,7 @@ title: "Linear Regression 1"
 permalink: /LinearRegression1/
 template: default
 ---
-<!DOCTYPE html>
+
 <h1>Building A Linear Regression Model</h1>
 
 ```Python
@@ -15,3 +15,4 @@ from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 ```
 
+asdfadf
