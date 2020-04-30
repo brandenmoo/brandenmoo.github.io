@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/brandenmoo/brandenmoo.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+layout: page
+title: "PAGE TITLE"
+permalink: /testhtml/
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
