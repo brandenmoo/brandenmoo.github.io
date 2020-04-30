@@ -17,7 +17,7 @@ To start, I imported the libraries that I will be using in this project:
 ![Image1](images/LinReg1/LR1-1.png)
 
 Then, import the .csv file containing the data as a DataFrame using pandas. I like to display the first 10 rows of the DataFrame to get a quick overview of the dataset: 
-![Image2]<images/LinReg1/LN1-2.png>
+![Image2](images/LinReg1/LN1-2.png)
 
 Before jumping into building any models, it is important to perform data cleaning. First, I checked if there are any missing or null values in the data set, in this case there are no missing values: 
 ![Image3](images/LinReg1/LN1-3.png)
