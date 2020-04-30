@@ -4,6 +4,6 @@ title: "PAGE TITLE"
 permalink: /test-html/
 ---
 ---
-theme: jekyll-theme-slate
+theme: default
 ---
 <h1> hello world</h1>
