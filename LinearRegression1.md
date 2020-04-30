@@ -13,7 +13,7 @@ This is a Linear Regression project to build a model that predicts the price of 
 
 ### Building The Model
 To start, I imported the libraries that I will be using in this project:
-![Image1](https://brandenmoo.github.io/blob/master/images/LinReg1/LR1-1.png)
+![Image1](images/LinReg1/LR1-1.png)
 
 Then, import the .csv file containing the data as a DataFrame using pandas. I like to display the first 10 rows of the DataFrame to get a quick overview of the dataset: 
 <img src="LN1-1.png" width="800" />
