@@ -5,4 +5,4 @@ permalink: /test-html/
 theme: default
 ---
 
-<h1> hello world test</h1>
+<h1> hello world </h1>
