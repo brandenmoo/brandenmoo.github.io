@@ -20,6 +20,7 @@ To begin, I import the libraries that I will be using in this project. Then I im
 I noticed the data structure isn’t correct, this would inter with building a model. To fix the issue, I stored the feature information in a dictionary and removed the row from the DataFrame. 
 I used a dictionary so that I can easily access the feature description if needed. 
 ![Image2](images/DecTre/Tree2.png)
+
 Next, I checked if there were missing or null values in the data: 
 ![Image3](images/DecTre/Tree3.png)
 
@@ -29,6 +30,7 @@ Since there’s no missing data, I didn’t need to do any cleaning. Using all t
 
 Using all the features, the model correctly predicted 72.13% of the test data. To try and improve that slightly, I built a second model containing only features with notable correlation. I had to convert the data in the DataFrame to ‘float’ type in order to use the .corr() object: 
 ![Image5](images/DecTre/Tree5.png)
+
 It worked to improve accuracy slightly: 
 ![Image6](images/DecTre/Tree6.png)
 
