@@ -3,7 +3,7 @@ title: "K-Nearest Neighbour Bank Data"
 permalink: /KNN-bank/
 template: default
 ---
-
+[Homepage](https://brandenmoo.github.io/)
 # Predicting Subscription Of Term Deposit 
 This project is to build a K-nearest neighbour model that predicts whether clients will subscribe to a term deposit offered by a Portuguese 
 bank. The data set offered 17 features about the clients. 
