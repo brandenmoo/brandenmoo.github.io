@@ -4,3 +4,5 @@ Since graduating from the University of British Columbia, I have been interested
 
 ### K-Nearest Neighbour
 ![Image](images/icon.png)
+
+![https://docs.google.com/document/d/1HkFOGCF4F-yXWQoHKYMSSGBHxeNfqdR5dHLFa-DKSk0/edit](images/icon.png)
