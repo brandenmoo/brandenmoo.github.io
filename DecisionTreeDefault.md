@@ -3,6 +3,7 @@ title: "Decision Tree Default Predictor"
 permalink: /DecisionTreeDefault/
 template: default
 ---
+[Homepage](https://brandenmoo.github.io/)
 # Predicting Whether Credit Card Clients Will Default
 This Decision Tree model was built to predict whether clients of a credit card company will default given some features about the clients.
 This is a simple project to demonstrate the basics of building a decision tree. Decision trees are rarely used on their own, they are most
