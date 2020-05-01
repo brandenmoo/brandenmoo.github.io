@@ -3,7 +3,7 @@ title: "Linear Regression Real Estate"
 permalink: /LinearRegressionRealEstate/
 template: default
 ---
-
+[Homepage](https://brandenmoo.github.io/)
 # Predicting House Price With Linear Regression
 This is a Linear Regression project to build a model that predicts the price of an apartment in Taiwan given multiple features. A linear regression model that utilizes more than one feature is known as multiple linear regression.  
 
