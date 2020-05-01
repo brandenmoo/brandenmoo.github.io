@@ -9,8 +9,8 @@ This project is to build a K-nearest neighbour model that predicts whether clien
 bank. The data set offered 17 features about the clients. 
 
 ### Project Details
-**Data Source URL:** http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
-**Modelling Type:** K-nearest neighbour
+**Data Source URL:** http://archive.ics.uci.edu/ml/datasets/Bank+Marketing <br>
+**Modelling Type:** K-nearest neighbour <br>
 **Source Code:** [GitHub File](https://github.com/brandenmoo/brandenmoo.github.io/blob/master/Source_Codes/KNN-Bank.ipynb)
 
 ### Building The Model
