@@ -14,7 +14,8 @@ Predicting the price of real estate with given features.
 ### [Decision Tree (Credit Card Data)](https://brandenmoo.github.io/DecisionTreeDefault/)
 Predicting whether or not credit card users will default.
 
-
+### [Random Forest (Credit Card Data)](https://brandenmoo.github.io/RandomForestDefault/)
+Predicting whether or not credit card users will default.
 
 
 
