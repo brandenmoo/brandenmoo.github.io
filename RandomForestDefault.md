@@ -1,6 +1,6 @@
 ---
-title: "Decision Tree Default Predictor"
-permalink: /DecisionTreeDefault/
+title: "Random Forest Default Predictor"
+permalink: /RandomForestDefault/
 template: default
 ---
 [Homepage](https://brandenmoo.github.io/)
