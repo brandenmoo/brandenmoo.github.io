@@ -8,14 +8,15 @@ Since graduating from the University of British Columbia, I have been interested
 ### [K-Nearest Neighbour (Bank Data)](https://brandenmoo.github.io/KNN-bank/)
 Predicting whether or not bank clients will subscribe to a term deposit. 
 
+### [Random Forest (Credit Card Data)](https://brandenmoo.github.io/RandomForestDefault/)
+Predicting whether or not credit card users will default.
+
 ### [Multiple Linear Regression (Real Estate Data)](https://brandenmoo.github.io/LinearRegressionRealEstate/)
 Predicting the price of real estate with given features.
 
 ### [Decision Tree (Credit Card Data)](https://brandenmoo.github.io/DecisionTreeDefault/)
 Predicting whether or not credit card users will default.
 
-### [Random Forest (Credit Card Data)](https://brandenmoo.github.io/RandomForestDefault/)
-Predicting whether or not credit card users will default.
 
 
 
