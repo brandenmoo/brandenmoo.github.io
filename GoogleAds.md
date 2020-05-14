@@ -9,7 +9,7 @@ template: default
 This is a screenshot of the overview of a campaign I've ran for a client, the client is a Acura Dealership. Sensitive information have been redacted out of respect for the client. <br>
 
 ![Image1](images/GoogleAds/GoogleAdsCampaign.jpg)
-![Img](GoogleAds/GoogleAdsCampaign.jpg)
+![Img](images/GoogleAds/GoogleAdsCampaign.jpg)
 
 <br>
 ### Overview
