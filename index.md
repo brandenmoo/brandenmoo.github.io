@@ -18,7 +18,6 @@ Predicting the price of real estate with given features.
 Predicting whether or not credit card users will default.
 
 ### [Google Ads Past Campaigns](https://brandenmoo.github.io/GoogleAds/)
-Walking through an examples of past Google Ads campaigns. 
-
+Walking through a client's Google Ads strategy.
 
 
