@@ -25,7 +25,7 @@ Analyzing the Search Terms allowed me to identify high performing keywords that 
 I rewrote all the ad copies for this client to follow best practices. The main change I implemented was the inclusion of a call-to-action at the end. Many studies have shown that a CTA is crucial to increase CTR, so I made sure to include one. Further more, I made sure to include only relevant content to entice searchers to click the ad. Unfortunately, the client has asked me not to feature the ads in this case study.
 
 ### Bid Adjustment
-Bid adjustment is a powerful tool to increase clicks or conversions. I looked at the performance for each age and demographic groups, and identified opportunities to utilize an increased bid adjustment. In the example shown below, I noticed that the CTR for the 55-64 age group was more than 2x of other age groups, so I increased the bid adjustment for that group. Going through each ad group and identifying these opportunities can have a great effect for overall performance.
+Bid adjustment is a powerful tool to increase clicks or conversions. I looked at the performance for each age and demographic groups, and identified opportunities to utilize an increased bid adjustment. In the example shown below, I noticed that the CTR for the 55-64 age group was more than 2x of other age groups, so I increased the bid adjustment for that group. Going through each ad group and identifying these opportunities can have a great effect on overall performance. <br>
 ![Image2](images/GoogleAdsCampaign/Google Ads - Covers Company - CTR.png)
 
 ### Results and Next Steps
