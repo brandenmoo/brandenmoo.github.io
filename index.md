@@ -5,7 +5,7 @@ Since graduating from the University of British Columbia, I have been interested
 <br>
 
 
-### [Google Ads Past Campaigns (Geotargeting Strategy)](https://brandenmoo.github.io/GoogleAds/)
+### [Google Ads Past Campaigns](https://brandenmoo.github.io/GoogleAds/)
 Walking through a multifaceted campaign strategy.
 
 ### [K-Nearest Neighbour (Bank Data)](https://brandenmoo.github.io/KNN-bank/)
