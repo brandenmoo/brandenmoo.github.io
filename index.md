@@ -5,6 +5,9 @@ Since graduating from the University of British Columbia, I have been interested
 <br>
 
 
+### [Google Ads Past Campaigns (Geotargeting Strategy)](https://brandenmoo.github.io/GoogleAds/)
+Walking through a client's Google Ads strategy.
+
 ### [K-Nearest Neighbour (Bank Data)](https://brandenmoo.github.io/KNN-bank/)
 Predicting whether or not bank clients will subscribe to a term deposit. 
 
@@ -16,8 +19,5 @@ Predicting the price of real estate with given features.
 
 ### [Decision Tree (Credit Card Data)](https://brandenmoo.github.io/DecisionTreeDefault/)
 Predicting whether or not credit card users will default.
-
-### [Google Ads Past Campaigns](https://brandenmoo.github.io/GoogleAds/)
-Walking through a client's Google Ads strategy.
 
 
