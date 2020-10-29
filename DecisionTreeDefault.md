@@ -38,3 +38,6 @@ It worked to improve accuracy slightly:
 Scikit-Learn builds a decision by splitting features that result in lowest Gini impurity, and recursively splits until there is no more information gain. This results in a static model that is very prone to overfitting. Random forest fixes both those issues by using multiple trees and bagging. 
 
 
+http://spotdigitalinc.com/#a_aid=testnumber1&a_bid=bf9e98b6 (Link)
+
+[TextLink] (<a href="http://spotdigitalinc.com/#a_aid=testnumber1&amp;a_bid=79543e40" target="_top"><strong>Text Link Preview</strong><br/></a><img style="border:0" src="https://trial.postaffiliatepro.com/scripts/kih3axxqw3?a_aid=testnumber1&amp;a_bid=79543e40" width="1" height="1" alt="" />)
