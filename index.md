@@ -1,6 +1,6 @@
 ## B r a n d e n  M o o
 
-Since graduating from the University of British Columbia, I have been interested in developing my skills in data analysis. I’m particularly interested in using data to assist in company growth and user acquisition. After developing my marketing skills in my previous role, I decided to learn Python in order to become a data-driven marketer. This portfolio is a collection of projects I’ve done to showcase my skills with Python, various data science libraries, and Google Ads.
+I am a digital markater with a passion for working with data. I am particularly interested in utilizing data analysis to improve user acquisition strategies. With a background in digital marketing and an interest in data-related roles, I am uniquely qualified for Marketing Analyst positions. This portfolio is a collection of projects I have done to showcase my skills with Python, various data science libraries, and Google Ads.
 
 <br>
 
